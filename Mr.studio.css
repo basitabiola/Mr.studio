@@ -1,0 +1,198 @@
+
+.div{
+    width: 850px;
+    height: 700px;
+background-color: black;
+}
+.container{
+background: linear-gradient(to right, black 20%,rgb(56, 0, 56));
+    width: 100%;
+    height: 700px;
+}
+.img{
+    width: 600px;
+    position: absolute;
+    top: 65px;
+    right: 80px;
+}
+.div2{
+float: top;
+position: sticky;
+height: 10%;
+width: 100%;
+background: linear-gradient(to right, black 15%,rgb(56, 0, 56));
+    width: 100%;
+}
+.b{
+color: white;
+font-size: 40px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h3{
+    color: white;
+}
+.h1{
+    color: white;
+    font-size: 5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h1a{
+    font-size: 6.3rem;
+    position: absolute;
+    top:220px;
+    background: linear-gradient(to left, purple 70%, blue);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h3{
+   color:white;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 1.2rem;
+}
+.button{
+    background: linear-gradient(to left, purple 40%, blue);
+    height: 35px;
+    width: 120px;
+    justify-content: center;
+    position: absolute;
+    top: 500px;
+    left: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2rem;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+.span2{
+    color: white;
+    position: absolute;
+    top:550px ;
+    left:35px ;
+    font-size: 2rem;
+    font-weight: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.span3{
+    position: absolute;
+    top:585px ;
+    left:35px ;
+    color: white;
+    font-size: 1rem;
+    font-weight: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.a{
+    color: white;
+}
+.div3{
+border-radius: 10px;
+    backdrop-filter: blur(17px);
+    width: 830px;
+    height: 200px;
+position: absolute;
+top: 500px;
+right: 25px;
+border: 4px dashed rgba(128, 0, 128, 0.411);
+}
+.h12{
+    color: rgba(197, 1, 197, 0.616);
+    font-size: 3rem;
+    position: absolute;
+    left: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.span5{
+    color: white;
+    position: absolute;
+    top:10px ;
+    left:43px ;
+    font-size: 20px;
+}
+.span6{
+    color: white;
+    position: absolute;
+    top:80px ;
+    left:40px ;
+    font-size: 20px; 
+}
+.span7{
+color: white;
+font-size: 20px; 
+position: absolute;
+top:10px ;
+left:350px ;
+}
+.h13{
+    color: rgba(197, 1, 197, 0.616);
+    font-size: 3rem;
+    position: absolute;
+    left: 340px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.span8{
+    color: white;
+    position: absolute;
+    top:80px ;
+    left:350px ;
+    font-size: 20px;
+}
+.span9{
+    color: white;
+    position: absolute;
+    top:80px ;
+    left:410px ;
+    font-size: 20px;
+}
+.span10{
+    color: white;
+    position: absolute;
+    top:80px ;
+    left:480px ;
+    font-size: 20px;
+}
+.button1{
+    backdrop-filter: blur(7px);
+    border: 3px solid white;
+    height: 35px;
+    width: 140px;
+    justify-content: center;
+    position: absolute;
+    top: 30px;
+    left: 600px;
+    padding-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2rem;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+.button2{
+    backdrop-filter: blur(7px);
+    border: 3px solid white;
+    height: 35px;
+    width: 140px;
+    padding-top: 10px;
+    justify-content: center;
+    position: absolute;
+    top: 85px;
+    left: 600px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2rem;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+}
+.button3{
+    background: linear-gradient(to left, purple 40%, blue);
+    color: white;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: absolute;
+    top: 25px;
+    right: 50px;
+    height:35px;
+    width:130px;
+    border-radius: 40px;
+}
